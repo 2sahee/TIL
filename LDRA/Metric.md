@@ -1,9 +1,9 @@
-## Metric이란?<br/>
-- metric이란 데이터들을 시각화해서 우리들에게 보여주는 툴<br/>
+## Metric
+- metric이란 데이터들을 시각화해서 우리들에게 보여주는 툴
+  </br></br></br>
 
 
-## 소스코드 메트릭</br> 
-
+## 소스코드 메트릭
 - 소프트웨어의 복잡도 감소, 유지보수 용이성 증대 등 소프트웨어 품질향상을 위한 소코드의 품질 측정지표 <br/> <br/>
 ![image1](https://github.com/2sahee/TIL/assets/119823052/a549629e-7f79-43a3-81ae-9d5da08cc10b)
 </br>
@@ -21,6 +21,14 @@
 
 ### 상세 내용 https://scribnote5.github.io/posts/Code-Metrics1/ 참고
 
+## HIS
+- Hersteller Initiative Software(HIS)
+- Audi AG, BMW AG, Daimler AG, Porsche AG 및 Volkswagen AG로 구성된 위원회
+- 위원회의 초점은 자동차 제조업체가 마이크로프로세서 기반 제어 장치에 대한 소프트웨어 및 품질 보증의 원칙과 방법을 숙지하도록 돕는 것임
+- 역사적으로 HIS 간행물에는 언어 하위 집합(또는 구어체로 "코딩 표준")이 포함되어 있었지만 LDRA 도구는 여전히 레거시 작업에 대한 지원을 제공하지만 MISRA 표준으로 대체되었음
 
-
-
+## TBhis 
+- LDRA 도구 모음에 사용할 수 있는 옵션 모듈
+- TBhis 모듈은 개발 수명 주기 전반에 걸쳐 HIS 소스 코드 지표를 준수하는지 소스 코드 검사를 자동화함
+- TBhis를 적절하게 적용하면 HIS 측정 기준 적용이 자동화되어 표준에서 약속하는 효율성과 품질 개선을 달성하는 데 도움이 됨
+- 
