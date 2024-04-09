@@ -5,7 +5,7 @@ metric이란 데이터들을 시각화해서 우리들에게 보여주는 툴<br
 #소스코드 매트릭</br> 
 
 소프트웨어의 복잡도 감소, 유지보수 용이성 증대 등 소프트웨어 품질향상을 위한 소코드의 품질 측정지표 <br/> <br/>
-![image1](https://github.com/2sahee/TIL/assets/119823052/a549629e-7f79-43a3-81ae-9d5da08cc10b) <br/>
+</center>![image1](https://github.com/2sahee/TIL/assets/119823052/a549629e-7f79-43a3-81ae-9d5da08cc10b) </center><br/>
 무기체계 소프트웨어 개발 및 관리 매뉴얼(2020) <br/> <br/>
 기존 『무기체계 소프트웨어 개발 및 관리 매뉴얼』 경우, 소스코드 메트릭 점검 항목으로 6개의 메트릭과 제한값을 제시하고, 종류 및 제한값이 제한되는 경우 타당한 사유 제시가 필요했음<br/><br/>
 ![image](https://github.com/2sahee/TIL/assets/119823052/4c27f980-305a-42e9-acb0-e3567edea6a4)<br/>
